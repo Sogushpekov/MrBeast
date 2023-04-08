@@ -1,0 +1,45 @@
+.menu{
+    background: orange;
+}
+.menu li{
+    display: inline-block;
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(9, 11, 5);
+    line-height: 35px;
+    padding: 0px 10px;
+    display: block;
+}
+.menu a:hover{
+    background: blue;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+hr{
+    margin-bottom: 20px;
+}
+ul{
+    list-style: none;
+}
+.border{
+    border: 3px solid yellow;
+}
+.content{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+    color: yellowgreen;
+}
+.cont{
+    width: 900px;
+    margin: 0px auto;
+}
+.footer{
+    text-align: center;
+    color: yellow;
+    text-decoration: underline;
+    line-height: 30px;
+}
